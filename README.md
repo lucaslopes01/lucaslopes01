@@ -1,7 +1,7 @@
 ### Bem vindo ao meu perfil!👋
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lopes-5b200b218/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleySCOliveira)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslopes01)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia a dia.
 <div style="display: inline_block">
